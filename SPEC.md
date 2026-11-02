@@ -6,10 +6,10 @@ This is the durable agreement between the learner and agent. Keep it concise and
 
 ## Current stage
 
-- Stage: Baseline ready to try; brand decisions pending.
+- Stage: Brand direction chosen; first branded storefront in progress.
 - Current feature: `BRAND-001` — first branded storefront and live style guide.
-- Status: Pending learner scope agreement.
-- Next small decision: Confirm the first slice after trying the neutral storefront.
+- Status: Learner approved the BRAND-001 scope; implementation in progress.
+- Next small decision: Review the two branded hero previews and choose which direction to keep or adjust.
 
 ## Product boundary
 
@@ -19,24 +19,24 @@ The product is the same white T-shirt throughout the comparison. The baseline of
 
 The primary need guides the page. Give the secondary card one contrasting need to check that same page; keep both cards brief.
 
-| Tiny card                             | Primary audience          | Secondary audience        |
-| ------------------------------------- | ------------------------- | ------------------------- |
-| Person in a concrete situation        | Not chosen yet            | Not chosen yet            |
-| Goal or meaning they seek             | Not chosen yet            | Not chosen yet            |
-| Concern before choosing               | Not chosen yet            | Not chosen yet            |
-| What the page should help them decide | Not chosen yet            | Not chosen yet            |
-| Evidence or assumption                | Assumption; not validated | Assumption; not validated |
+| Tiny card                             | Primary audience                                            | Secondary audience                                        |
+| ------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- |
+| Person in a concrete situation        | Someone looking for clothes that reflect their personality. | A young shopper looking for current, fashionable clothes. |
+| Goal or meaning they seek             | Express themselves and stand out.                           | Find clothes that feel stylish and current.               |
+| Concern before choosing               | Feeling like they have to dress like everyone else.         | Choosing something that fits their personal style.        |
+| What the page should help them decide | Whether the design feels personal and expressive.           | Whether the design matches their style preferences.       |
+| Evidence or assumption                | Assumption; not validated                                   | Assumption; not validated                                 |
 
 ## Early brand brief
 
-| Decision                                 | Agreement      |
-| ---------------------------------------- | -------------- |
-| Brand name                               | Not chosen yet |
-| One-sentence promise                     | Not chosen yet |
-| Primary archetype: the brand's character | Not chosen yet |
-| Three voice traits                       | Not chosen yet |
-| One example line in this voice           | Not chosen yet |
-| Learner's predicted audience effect      | Not chosen yet |
+| Decision                                 | Agreement                                                                                                                                                                            |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Brand name                               | Wildflower Studio                                                                                                                                                                    |
+| One-sentence promise                     | Bloom in your own way.                                                                                                                                                               |
+| Primary archetype: the brand's character | The Creator                                                                                                                                                                          |
+| Three voice traits                       | Creative, quirky, and bold                                                                                                                                                           |
+| One example line in this voice           | Who said you had to follow the rules?                                                                                                                                                |
+| Learner's predicted audience effect      | Use bright colors and playful graphics to bring happiness into everyday life and encourage people to express themselves without feeling like they have to fit in with everyone else. |
 
 ## Visual decision
 
@@ -44,16 +44,16 @@ Compare two small hero previews before building the whole page. Hold the product
 
 A simple original SVG wordmark is enough. Show small-size and one-color presentations; they may use the same asset when it works.
 
-| Item                                              | Agreement or evidence |
-| ------------------------------------------------- | --------------------- |
-| Shared headline / support / action                | Not chosen yet        |
-| Modernist preview, reference, and annotations     | Not chosen yet        |
-| Postmodernist preview, reference, and annotations | Not chosen yet        |
-| Chosen direction and reason                       | Not chosen yet        |
-| Original SVG logo                                 | Not chosen yet        |
-| Monochrome and small-size variants                | Not chosen yet        |
-| Logo review at actual use size                    | Not checked yet       |
-| Shared palette, typography, spacing, and assets   | Not chosen yet        |
+| Item                                              | Agreement or evidence                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Shared headline / support / action                | “Bloom in your own way.” / “Your style, your rules. Bring a little more color, creativity, and personality into the everyday.” / “Explore the tee”                                                                                                                                      |
+| Modernist preview, reference, and annotations     | Reference: [Bauhaus typography — Letterform Archive](https://exhibitions.letterformarchive.org/bauhaus/exhibit/introduction). Use a structured grid, clean sans-serif type, and generous spacing. Intended effect: clarity and focus. Risk: may feel too restrained for this brand.     |
+| Postmodernist preview, reference, and annotations | Reference: [Memphis — Design Museum](https://designmuseum.org/memphis). Use vivid color blocks, unexpected geometric shapes, and expressive typography. Intended effect: joy, individuality, and creative energy. Risk: visual clutter could make the text or product harder to notice. |
+| Chosen direction and reason                       | Playful and unconventional (postmodernist), because it better supports the brand’s expressive, colorful personality.                                                                                                                                                                    |
+| Original SVG logo                                 | Create an original Wildflower Studio wordmark with a simple flower-inspired graphic.                                                                                                                                                                                                    |
+| Monochrome and small-size variants                | Test the same SVG in one color and at a small display size.                                                                                                                                                                                                                             |
+| Logo review at actual use size                    | Not checked yet — verify after implementation.                                                                                                                                                                                                                                          |
+| Shared palette, typography, spacing, and assets   | Vivid pink, deep purple, tangerine, teal, and warm ivory; expressive display type paired with readable body text; consistent spacing and shared assets.                                                                                                                                 |
 
 ## Ethical persuasion
 
