@@ -6,10 +6,10 @@ This is the durable agreement between the learner and agent. Keep it concise and
 
 ## Current stage
 
-- Stage: Brand direction chosen; first branded storefront in progress.
+- Stage: First branded storefront and live style guide implemented; final review in progress.
 - Current feature: `BRAND-001` — first branded storefront and live style guide.
-- Status: Learner approved the BRAND-001 scope; implementation in progress.
-- Next small decision: Review the two branded hero previews and choose which direction to keep or adjust.
+- Status: BRAND-001 implemented, merged, documented, tested, and visually reviewed.
+- Next small decision: Complete the final review of the branded storefront, style guide, and recorded evidence.
 
 ## Product boundary
 
@@ -52,17 +52,17 @@ A simple original SVG wordmark is enough. Show small-size and one-color presenta
 | Chosen direction and reason                       | Playful and unconventional (postmodernist), because it better supports the brand’s expressive, colorful personality.                                                                                                                                                                    |
 | Original SVG logo                                 | Create an original Wildflower Studio wordmark with a simple flower-inspired graphic.                                                                                                                                                                                                    |
 | Monochrome and small-size variants                | Test the same SVG in one color and at a small display size.                                                                                                                                                                                                                             |
-| Logo review at actual use size                    | Not checked yet — verify after implementation.                                                                                                                                                                                                                                          |
+| Logo review at actual use size                    | Reviewed in the browser: main, small-size, and one-color logo versions were checked and looked good.                                                                                                                                                                                    |
 | Shared palette, typography, spacing, and assets   | Vivid pink, deep purple, tangerine, teal, and warm ivory; expressive display type paired with readable body text; consistent spacing and shared assets.                                                                                                                                 |
 
 ## Ethical persuasion
 
 Choose two applications that help the visitor make a voluntary, informed decision. Record their real implementation and mechanism rather than a principle name alone. Required size selection or validation alone does not establish consistency. Do not invent social proof, scarcity, authority, or product facts.
 
-| Principle      | Actual copy or interaction | Visitor benefit / factual support |
-| -------------- | -------------------------- | --------------------------------- |
-| Not chosen yet | Not chosen yet             | Not chosen yet                    |
-| Not chosen yet | Not chosen yet             | Not chosen yet                    |
+| Principle       | Actual copy or interaction                                                                                                                    | Visitor benefit / factual support                                                         |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Self-expression | “Bloom in your own way.” Supporting copy: “Your style, your rules. Bring a little more color, creativity, and personality into the everyday.” | Communicates personal style and creative expression without promising a specific outcome. |
+| Transparency    | “A classroom interaction, using fictional product data. No order, payment, or personal information is collected.”                             | Sets accurate expectations about the demo and what it does.                               |
 
 ## BRAND-001 — first branded storefront and live style guide
 
@@ -82,9 +82,9 @@ Keep when:
 
 Write a short result and link only evidence that exists. A passing browser check is evidence for its assertions, not customer research or proof of full accessibility.
 
-| Spec ID   | Files           | Issue / PR      | Actual checks and observations            |
-| --------- | --------------- | --------------- | ----------------------------------------- |
-| BRAND-001 | Not changed yet | Not created yet | Not run yet; learner observations pending |
+| Spec ID   | Files                                                                          | Issue / PR                                         | Actual checks and observations                                                                                                                                                                                                                                                                              |
+| --------- | ------------------------------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| BRAND-001 | `public/index.html`, `public/studio.html`, `public/styleguide.html`, `SPEC.md` | PR #2 — merged into `main`; merge commit `17569b8` | `npm run check` passed: Prettier, ESLint, HTML validation, Stylelint, 7 server tests, and 10 Playwright tests. Automated keyboard, accessibility, and narrow-screen checks passed. Learner visual review completed for the storefront, Studio page, Style Guide, logo variations, and narrow-screen layout. |
 
 ## Later
 
